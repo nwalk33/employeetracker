@@ -9,7 +9,9 @@
 5. [Questions](#questions)
 
 ## Description <a name="description"></a>
-This command-line application allows you to view and manage departments, roles, and employees in your company. It utilizes MySQL as the database to store and retrieve data. The application provides the following features to help you organize and plan your business:
+This command-line application allows you to view and manage departments, roles, and employees in your company. It utilizes MySQL as the database to store and retrieve data. The application provides the following features to help you organize and plan your business
+
+![Screenshot 2023-06-02 140847](https://github.com/nwalk33/employeetracker/assets/124389890/500460bd-d89b-486c-9b11-b89cfb7a1422)
 
 ## Installation <a name="installation"></a>
 Clone this repository to your local machine.
